@@ -1,0 +1,1 @@
+In a Maximizer database, a user-defined field (UDF) can apply to Company, Individual/Household, and Contact records. With this program, a value in a UDF for a Company and Individual/Household Contact will be copied down to the associated Contacts.
